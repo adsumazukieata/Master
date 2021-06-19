@@ -1,0 +1,38 @@
+{
+  "name": "NWSHP",
+  "short_name": "NWSHP",
+  "start_url": "https://www.nwshp.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "description": "Blog Berita Teknologi Terbaru Di Indonesia Yang Mengulas Seputar Harga Smartphone Android, Komputer.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-nzzROg5c-6M/YM0114lv_cI/AAAAAAAAASw/vtcp0fVvbwYy3EuIU_QzptrPSppo0C5NACLcBGAsYHQ/s48/ikonfaficonnwshp48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-U2ycsMsXCnQ/YM012WqUVxI/AAAAAAAAAS4/HQ4cofaz5Tsy6cTiEZj_nPyNYT2w2xMMQCLcBGAsYHQ/s0/ikonfaficonnwshp72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-lBi4KygJjAs/YM013D3gnWI/AAAAAAAAAS8/fhbtYB3gfrswgXeTB0vRvbjyG6zuJvRIgCLcBGAsYHQ/s0/ikonfaficonnwshp96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-0-65DMV4_hQ/YM0101tuojI/AAAAAAAAASo/MnyigkldWugb0KjGeN99W-F8JnAdtNM4QCLcBGAsYHQ/s0/ikonfaficonnwshp144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-6MLxL2k4-js/YM0109uUBaI/AAAAAAAAASk/cCkdpc0PCQAtbCcAOPDwkSWmNmdqiJs2gCLcBGAsYHQ/s0/ikonfaficonnwshp168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-8RVevY7IWgM/YM0101-UezI/AAAAAAAAASs/3JjAgCXWdEM6buWf2n0bvkK_vYYUNFIrgCLcBGAsYHQ/s192/ikonfaficonnwshp192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-f7VEiCzvJg4/YM012SkOBCI/AAAAAAAAAS0/bwen5czTIs0iMvgXL_X2ZFKGX8dD0_Y9ACLcBGAsYHQ/s512/ikonfaficonnwshp512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
